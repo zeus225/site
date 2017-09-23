@@ -3,6 +3,8 @@ body {
 	padding: 0;
 	font-size: 16px;
 	background-color: red;
+	width: 970px;
+	margin: 0 auto;
 }
 
 h1 {
